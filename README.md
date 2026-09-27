@@ -1,1 +1,1 @@
-# CharacterNames
+# CharacterNames for Anima
